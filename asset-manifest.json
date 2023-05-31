@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19a6c210.css",
+    "main.js": "/static/js/main.5f93e953.js",
+    "static/js/121.8c98a5a5.chunk.js": "/static/js/121.8c98a5a5.chunk.js",
+    "static/js/295.6e1b5fd3.chunk.js": "/static/js/295.6e1b5fd3.chunk.js",
+    "static/js/793.f721654c.chunk.js": "/static/js/793.f721654c.chunk.js",
+    "static/js/787.4a6b4b7c.chunk.js": "/static/js/787.4a6b4b7c.chunk.js",
+    "static/media/TilingPattern.png": "/static/media/TilingPattern.973b755eebffa157a2c0.png",
+    "static/media/Selfie.jpg": "/static/media/Selfie.8dbed00bf75c28e48c6c.jpg",
+    "static/media/cellular_automata_crystal_growth.jpg": "/static/media/cellular_automata_crystal_growth.2f1f5df097048ce0c1fb.jpg",
+    "static/media/SpaceFighters.PNG": "/static/media/SpaceFighters.e462197eda5d647dd96c.PNG",
+    "static/media/generic_cellular_automata_evoloops.jpg": "/static/media/generic_cellular_automata_evoloops.0302215349dae1315823.jpg",
+    "index.html": "/index.html",
+    "main.19a6c210.css.map": "/static/css/main.19a6c210.css.map",
+    "main.5f93e953.js.map": "/static/js/main.5f93e953.js.map",
+    "121.8c98a5a5.chunk.js.map": "/static/js/121.8c98a5a5.chunk.js.map",
+    "295.6e1b5fd3.chunk.js.map": "/static/js/295.6e1b5fd3.chunk.js.map",
+    "793.f721654c.chunk.js.map": "/static/js/793.f721654c.chunk.js.map",
+    "787.4a6b4b7c.chunk.js.map": "/static/js/787.4a6b4b7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a6c210.css",
+    "static/js/main.5f93e953.js"
+  ]
+}
